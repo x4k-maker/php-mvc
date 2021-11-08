@@ -1,6 +1,7 @@
 {
     "name": "x4k-maker/php-mvc",
     "require": {
+        "x4k-maker/php-mvc": "dev-master",
         "twig/twig": "~3.0"
     },
     "autoload": {
